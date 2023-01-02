@@ -1,0 +1,4 @@
+'date', 'zapotrzebowanie-mw', "generacja-mw", 'el-cieplne', 'el-wodne', 'el-wiatrowe', 'el-fotowoltaiczne', 'el-inne', 'saldo-wymiany', 'czestotliwosc'
+21-12-2022 11:56:01,25359,25376,21579,348,2805,644,0,80,50.027
+21-12-2022 12:29:01,25528,25583,21908,348,2683,644,0,41,50.018
+30-12-2022 12:22:31,30-12-2022 12:31:00,30-12-2022 12:35:00,
